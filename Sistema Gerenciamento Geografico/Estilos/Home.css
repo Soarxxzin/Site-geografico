@@ -1,0 +1,40 @@
+*{
+    margin: auto;
+}
+
+.cabecalhohome{
+    background-color: #04C9F4;
+    color: #fff;
+    height: 40px;
+    margin-left: 182px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #e7e7e7;
+}
+
+.menu{
+    background-color: #d9d9d9;
+    float: left;
+    height: 545px;
+    width: 182px;
+}
+
+section{
+    background-color: black;
+    margin-left: 40%;
+    margin-top: 35px;
+}
+
+footer{
+    background-color: #fff;
+    color: #04C9F4;
+    height: 40px;
+    margin-top: 61px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
